@@ -1,0 +1,17 @@
+body {
+      background-color: powderblue;
+    }
+h3 {
+    color: #ec4a60;
+}
+hr {
+    background-color: powderblue;
+    /* border-style: dotted none none; */
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0;
+    /* width: 3px; fix size mt de*/
+    width: 5%;
+}
